@@ -43,5 +43,59 @@
     "sekretaris": "",
     "hp": "",
     "alamat": ""
+  },
+  {
+    "id": "pmw7xzvs711f",
+    "nama": "PIMDA 309 DELI SERDANG",
+    "wilayah": "Kabupaten Deli Serdang",
+    "ketua": "Feri Hardian, S.H, P.Ma",
+    "sekretaris": "Dodi Azhari, K.Ka",
+    "hp": "",
+    "alamat": "Jl. Diponegoro No. 1 Masjid Taqwa Muhammadiyah Lubuk Pakam"
+  },
+  {
+    "id": "pmw7y1vctq6j",
+    "nama": "PIMDA 307 BATU BARA",
+    "wilayah": "Kabupaten Batu Bara",
+    "ketua": "Taufik Tanjung, S.H, M.H, K.Ka",
+    "sekretaris": "Riduan Amsal Ritonga, K.Ua",
+    "hp": "",
+    "alamat": "Tanjung Tiram, Masjid Taqwa Muhammadiyaj"
+  },
+  {
+    "id": "pmw7y3cxhgxp",
+    "nama": "PIMDA 314 KOTA BINJAI",
+    "wilayah": "Kota Binjai",
+    "ketua": "Ustadz. Bustanuddin, S.Pd, P.Ka",
+    "sekretaris": "Fatwa Azan, S.Kom, K.Ka",
+    "hp": "",
+    "alamat": ""
+  },
+  {
+    "id": "pmw7y4grbljw",
+    "nama": "PIMDA 313 KOTA SIBOLGA",
+    "wilayah": "Kota Sibolga",
+    "ketua": "Irsyadunnas, K.Ua",
+    "sekretaris": "",
+    "hp": "",
+    "alamat": ""
+  },
+  {
+    "id": "pmw7y5b3cfq3",
+    "nama": "PIMDA 308 PEMATANG SIANTAR",
+    "wilayah": "Kota Pematang Siantar",
+    "ketua": "Syaiful Hamdany, P.Ka",
+    "sekretaris": "",
+    "hp": "",
+    "alamat": ""
+  },
+  {
+    "id": "pmw7y64ae91h",
+    "nama": "PIMDA 310 TAPANULI TENGAH",
+    "wilayah": "Kabupaten Tapanuli Tengah",
+    "ketua": "Khairul Syahdi, K.Ua",
+    "sekretaris": "",
+    "hp": "",
+    "alamat": ""
   }
 ]
