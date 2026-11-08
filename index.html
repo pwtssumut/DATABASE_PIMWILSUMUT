@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="id">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Database Pimwil VIII Tapak Suci Sumut</title>
+<link rel="icon" href="logo.png">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="top">
+  <div class="brand">
+    <img class="logo" src="logo.png" alt="Logo Tapak Suci">
+    <div>
+      <h1>Pimpinan Wilayah VIII Tapak Suci</h1>
+      <p>Provinsi Sumatera Utara &middot; Database Organisasi</p>
+    </div>
+  </div>
+  <nav id="nav">
+    <a href="#beranda" data-v="beranda">Beranda</a>
+    <a href="#pengurus" data-v="pengurus">Struktur Pengurus</a>
+    <a href="#pimda" data-v="pimda">Pimpinan Daerah</a>
+    <a href="#anggota" data-v="anggota">Anggota</a>
+  </nav>
+  <div class="top-actions">
+    <button id="btnPublish" class="btn gold hidden"></button>
+    <button id="btnAdmin" class="btn ghost">Admin</button>
+  </div>
+</header>
+
+<main>
+  <section id="v-beranda" class="view"></section>
+  <section id="v-pengurus" class="view"></section>
+  <section id="v-pimda" class="view"></section>
+  <section id="v-anggota" class="view"></section>
+</main>
+
+<footer>Pimpinan Wilayah VIII Tapak Suci Putera Muhammadiyah Sumatera Utara &middot; Data diperbarui: <span id="lastUpdate">-</span></footer>
+
+<dialog id="dlg"></dialog>
+<div id="toast" class="toast hidden"></div>
+<script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,11 @@
+[
+  {"id":"p1","nama":"(belum diisi)","jabatan":"Ketua","bidang":"Pimpinan Harian","hp":"","urut":1},
+  {"id":"p2","nama":"(belum diisi)","jabatan":"Wakil Ketua I","bidang":"Pimpinan Harian","hp":"","urut":2},
+  {"id":"p3","nama":"(belum diisi)","jabatan":"Wakil Ketua II","bidang":"Pimpinan Harian","hp":"","urut":3},
+  {"id":"p4","nama":"(belum diisi)","jabatan":"Sekretaris","bidang":"Pimpinan Harian","hp":"","urut":4},
+  {"id":"p5","nama":"(belum diisi)","jabatan":"Wakil Sekretaris","bidang":"Pimpinan Harian","hp":"","urut":5},
+  {"id":"p6","nama":"(belum diisi)","jabatan":"Bendahara","bidang":"Pimpinan Harian","hp":"","urut":6},
+  {"id":"p7","nama":"(belum diisi)","jabatan":"Ketua Bidang","bidang":"Organisasi & Kaderisasi","hp":"","urut":7},
+  {"id":"p8","nama":"(belum diisi)","jabatan":"Ketua Bidang","bidang":"Pembinaan Prestasi","hp":"","urut":8},
+  {"id":"p9","nama":"(belum diisi)","jabatan":"Ketua Bidang","bidang":"Pendidikan & Pelatihan","hp":"","urut":9}
+]

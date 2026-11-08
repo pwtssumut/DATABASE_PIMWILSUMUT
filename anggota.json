@@ -1,0 +1,44 @@
+[
+  {
+    "id": "a1",
+    "nama": "CONTOH Anggota Satu",
+    "nia": "CONTOH-001",
+    "jk": "L",
+    "tempat_lahir": "Medan",
+    "tgl_lahir": "2008-05-12",
+    "pimda_id": "pimda-01",
+    "tingkatan": "Siswa Dasar",
+    "status": "Aktif",
+    "tahun_bergabung": 2023,
+    "hp": "",
+    "alamat": ""
+  },
+  {
+    "id": "a2",
+    "nama": "CONTOH Anggota Dua",
+    "nia": "CONTOH-002",
+    "jk": "P",
+    "tempat_lahir": "Binjai",
+    "tgl_lahir": "2007-09-03",
+    "pimda_id": "pimda-02",
+    "tingkatan": "Siswa Satu",
+    "status": "Aktif",
+    "tahun_bergabung": 2022,
+    "hp": "",
+    "alamat": ""
+  },
+  {
+    "id": "a3",
+    "nama": "CONTOH Anggota Tiga",
+    "nia": "CONTOH-003",
+    "jk": "L",
+    "tempat_lahir": "Pematangsiantar",
+    "tgl_lahir": "2001-01-20",
+    "pimda_id": "pimda-03",
+    "tingkatan": "Kader Muda",
+    "status": "Tidak Aktif",
+    "tahun_bergabung": 2016,
+    "hp": "",
+    "alamat": ""
+  }
+]
