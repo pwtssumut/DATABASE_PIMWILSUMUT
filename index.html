@@ -23,8 +23,7 @@
     <a href="#anggota" data-v="anggota">Anggota</a>
   </nav>
   <div class="top-actions">
-    <button id="btnPublish" class="btn gold hidden"></button>
-    <button id="btnAdmin" class="btn ghost">Admin</button>
+    <button id="btnAuth" class="btn ghost">Masuk</button>
   </div>
 </header>
 
@@ -35,10 +34,12 @@
   <section id="v-anggota" class="view"></section>
 </main>
 
-<footer>Pimpinan Wilayah VIII Tapak Suci Putera Muhammadiyah Sumatera Utara &middot; Data diperbarui: <span id="lastUpdate">-</span></footer>
+<footer>Pimpinan Wilayah VIII Tapak Suci Putera Muhammadiyah Sumatera Utara</footer>
 
 <dialog id="dlg"></dialog>
 <div id="toast" class="toast hidden"></div>
+<script src="config.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
 <script src="app.js"></script>
 </body>
 </html>

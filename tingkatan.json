@@ -1,0 +1,90 @@
+{
+  "jumlah_pimda_target": 23,
+  "status": [
+    "Aktif",
+    "Tidak Aktif"
+  ],
+  "diperbarui": "",
+  "jenjang": [
+    {
+      "nama": "Siswa",
+      "tingkatan": [
+        {
+          "nama": "Siswa Dasar"
+        },
+        {
+          "nama": "Siswa Satu"
+        },
+        {
+          "nama": "Siswa Dua"
+        },
+        {
+          "nama": "Siswa Tiga"
+        },
+        {
+          "nama": "Siswa Empat"
+        }
+      ]
+    },
+    {
+      "nama": "Kader",
+      "tingkatan": [
+        {
+          "nama": "Kader Dasar",
+          "alias": "Biru Dasar",
+          "singkatan": "K.Da"
+        },
+        {
+          "nama": "Kader Muda",
+          "alias": "Biru Melati Satu",
+          "singkatan": "K.Ma"
+        },
+        {
+          "nama": "Kader Madya",
+          "alias": "Biru Melati Dua",
+          "singkatan": "K.Mdy"
+        },
+        {
+          "nama": "Kader Kepala",
+          "alias": "Biru Melati Tiga",
+          "singkatan": "K.Ka"
+        },
+        {
+          "nama": "Kader Utama",
+          "alias": "Biru Melati Empat",
+          "singkatan": "K.Ua"
+        }
+      ]
+    },
+    {
+      "nama": "Pendekar",
+      "tingkatan": [
+        {
+          "nama": "Pendekar Muda",
+          "alias": "Hitam Melati Satu",
+          "singkatan": "P.Ma"
+        },
+        {
+          "nama": "Pendekar Madya",
+          "alias": "Hitam Melati Dua",
+          "singkatan": "P.Mdy"
+        },
+        {
+          "nama": "Pendekar Kepala",
+          "alias": "Hitam Melati Tiga",
+          "singkatan": "P.Ka"
+        },
+        {
+          "nama": "Pendekar Utama",
+          "alias": "Hitam Melati Empat",
+          "singkatan": "P.Ua"
+        },
+        {
+          "nama": "Pendekar Besar",
+          "alias": "Hitam Melati Lima",
+          "singkatan": "P.Br"
+        }
+      ]
+    }
+  ]
+}

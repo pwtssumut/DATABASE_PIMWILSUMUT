@@ -127,3 +127,25 @@ dialog::backdrop{background:rgba(10,20,35,.55)}
 .hr-item:last-child{border-bottom:none}.hr-item:hover{background:#fff8e6}
 .hr-main{flex:1;display:flex;flex-direction:column;min-width:0}
 .hr-main span{color:var(--mute);font-size:.82rem}
+
+/* --- tambahan versi Supabase --- */
+.person .acts{flex-wrap:wrap}
+.plist{border:1px solid var(--line);border-radius:10px;overflow:hidden}
+.plist-item{display:flex;justify-content:space-between;align-items:center;gap:10px;padding:9px 12px;border-bottom:1px solid var(--line);font-size:.9rem}
+.plist-item:last-child{border-bottom:none}
+.plist-item>div:first-child{display:flex;flex-direction:column;min-width:0}
+.plist-item span{color:var(--mute);font-size:.8rem}
+.plist-item .acts{display:flex;gap:6px;flex:none}
+code{background:#fbeacb;padding:1px 6px;border-radius:5px;font-size:.88em}
+
+dialog{max-height:92vh;overflow:auto}
+.tree-cab{border:1px solid var(--line);border-radius:10px;margin-bottom:8px;overflow:hidden}
+.tree-cab .plist-item{border-bottom:1px solid var(--line)}
+.tree-cab>.plist-item:first-child{background:#fff8e6}
+.tree-unit{padding-left:26px;background:#fff}
+.rw-box{border:1px dashed #d6b98f;border-radius:10px;padding:10px 12px;background:#fffaf0}
+.rw-head{display:flex;justify-content:space-between;align-items:center;margin-bottom:8px}
+.rw-box small{color:var(--mute);font-size:.76rem;display:block;margin-top:6px}
+.rw-row{display:grid;grid-template-columns:1.6fr 80px 1.2fr auto;gap:6px;margin-bottom:6px}
+.rw-row select,.rw-row input{padding:7px 8px;border:1px solid var(--line);border-radius:8px;font:inherit;font-size:.86rem;min-width:0}
+@media(max-width:640px){.rw-row{grid-template-columns:1fr 70px auto}.rw-row .rw-ct{grid-column:1/3}}
